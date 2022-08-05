@@ -1,0 +1,31 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/cb/50/fd/cb50fd3b236d01184fd23ad59af50b4f.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+  #backcover {
+    width:100%;
+}
+
+.header {
+    position: absolute;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#backcover p {
+    position: absolute;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 3rem;
+    color:white;
+    text-shadow: 5px 5px 10px black;
+    border-style: double;
+    border-color: rgb(128, 7, 7);
+    border-width: 10px;
+    left:35%;
+    margin-top: -150px;
+    background-color: brown;
+}
+
+#myForm {
+    margin-top: 15%;
+}
